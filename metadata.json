@@ -1,0 +1,5 @@
+{
+  "name": "Rate das Jahr der Geschichte",
+  "description": "Ein Wordle-ähnliches Geschichtsrätsel, bei dem du 4-stellige Jahreszahlen anhand von historischen Hinweisen erraten musst.",
+  "requestFramePermissions": []
+}
