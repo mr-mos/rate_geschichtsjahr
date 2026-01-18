@@ -16,7 +16,7 @@ const Cell: React.FC<CellProps> = ({ value, status, index = 0 }) => {
       case 'present':
         return 'bg-yellow-500 border-yellow-400 text-white shadow-[0_1px_0_0_rgba(161,98,7,1)] md:shadow-[0_4px_0_0_rgba(161,98,7,1)]';
       case 'absent':
-        return 'bg-slate-700 border-slate-600 text-slate-300 shadow-[0_1px_0_0_rgba(30,41,59,1)] md:shadow-[0_4px_0_0_rgba(30,41,59,1)]';
+        return 'bg-red-900/80 border-red-700 text-red-200 shadow-[0_1px_0_0_rgba(127,29,29,1)] md:shadow-[0_4px_0_0_rgba(127,29,29,1)]';
       case 'tbd':
         return 'bg-slate-800 border-slate-600 text-white border-2 shadow-[0_4px_10px_rgba(0,0,0,0.3)]';
       case 'empty':
