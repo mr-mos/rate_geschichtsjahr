@@ -139,10 +139,10 @@ const App: React.FC = () => {
     <div className="min-h-screen flex flex-col items-center py-2 md:py-8 px-4 overflow-x-hidden">
       {/* Header */}
       <header className="text-center mb-4 md:mb-10 animate-fadeIn">
-        <h1 className="text-3xl md:text-6xl font-black font-serif text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-fuchsia-400 mb-0.5 md:mb-4 drop-shadow-sm">
+        <h1 className="text-3xl md:text-6xl font-black font-serif text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-lime-400 mb-0.5 md:mb-4 drop-shadow-sm">
           Chronos
         </h1>
-        <div className="h-0.5 w-8 md:w-24 bg-gradient-to-r from-indigo-500 to-fuchsia-500 mx-auto rounded-full mb-1 md:mb-4"></div>
+        <div className="h-0.5 w-8 md:w-24 bg-gradient-to-r from-emerald-500 to-lime-500 mx-auto rounded-full mb-1 md:mb-4"></div>
         <p className="text-slate-400 text-[8px] md:text-base font-medium uppercase tracking-[0.2em]">
           Rate das Jahr der Geschichte
         </p>
